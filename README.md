@@ -9,7 +9,7 @@ A tool to compare the use of pellets in recent years and other statistics.
 
 :warning: **THIS IS UNFINISHED DRAFT OF INITIAL VERSION OF PROJECT README** :warning:
 
-## Future tool purpose
+## Goal
 The application will calculate statistics based on historical data on the number of burned pellets:
 - number of kg of pellets burned for each month of the year
 - comparison of burned kg of pellets in individual years by months (trend)
@@ -19,8 +19,15 @@ The application will calculate statistics based on historical data on the number
 - prediction of the date of emptying the pellets based on their use in the current year and the trend of previous years
 - and more...
 
-## Personal purpose
-for me..
+## Motivation
+My motivation for this project is:
+- learn to use what's new in Python since version 3.5
+- learn to create a complete Python package
+- learn to create a package in PyPi
+- improve knowledge in the use of Github tools
+- learn to use Travis CI
+- improve knowledge of the use of status badges
+- and more
 
 ## Getting Started
 
