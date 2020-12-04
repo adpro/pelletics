@@ -1,5 +1,6 @@
 # pelletics
 ![GitHub](https://img.shields.io/github/license/adpro/pelletics)
+![OSS Lifecycle](https://img.shields.io/osslifecycle/adpro/pelletics)
 ![GitHub issues](https://img.shields.io/github/issues-raw/adpro/pelletics)
 ![GitHub milestones](https://img.shields.io/github/milestones/closed/adpro/pelletics)
 ![GitHub last commit](https://img.shields.io/github/last-commit/adpro/pelletics)
