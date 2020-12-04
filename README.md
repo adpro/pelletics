@@ -30,10 +30,13 @@ My motivation for this project is:
 - and more
 
 ## Getting Started
+It will be written.
 
 ## How to contribute
+There is currently no way to contribute, except for good advice.
 
 ## Maintainers and contributors
+The only maintainer is code owner [@adpro](https://github.com/adpro).
 
 ## License
 pelletics is licensed under the [MIT license](LICENSE).
