@@ -1,4 +1,5 @@
 # pelletics
+
 ![GitHub](https://img.shields.io/github/license/adpro/pelletics)
 ![OSS Lifecycle](https://img.shields.io/osslifecycle/adpro/pelletics)
 ![GitHub issues](https://img.shields.io/github/issues-raw/adpro/pelletics)
@@ -10,6 +11,7 @@ A tool to compare the use of pellets in recent years and other statistics.
 :warning: **THIS IS UNFINISHED DRAFT OF INITIAL VERSION OF PROJECT README** :warning:
 
 ## Goal
+
 The application will calculate statistics based on historical data on the number of burned pellets:
 - number of kg of pellets burned for each month of the year
 - comparison of burned kg of pellets in individual years by months (trend)
@@ -20,6 +22,7 @@ The application will calculate statistics based on historical data on the number
 - and more...
 
 ## Motivation
+
 My motivation for this project is:
 - learn to use what's new in Python since version 3.5
 - learn to create a complete Python package
@@ -30,13 +33,33 @@ My motivation for this project is:
 - and more
 
 ## Getting Started
+
 It will be written.
 
-## How to contribute
-There is currently no way to contribute, except for good advice.
+## Roadmap
+
+Functionality definition for version 0.1.0 is now in progress. Subsequent versions will be added gradually.
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests.
+
+## Versioning
+
+pelletics uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/adpro/pelletics/tags). 
+
 
 ## Maintainers and contributors
-The only maintainer is code owner [@adpro](https://github.com/adpro).
+* **Ales Daniel** - *Initial work* - [adpro](https://github.com/adpro)
 
 ## License
-pelletics is licensed under the [MIT license](LICENSE).
+
+pelletics is licensed under the MIT License - see the [LICENSE](LICENSE) file
+for details.
+
+## Project status
+
+Project is in active OSS Lifecycle 
+![OSS Lifecycle](https://img.shields.io/osslifecycle/adpro/pelletics)
+
+More info about lifecycle at [Netflix's OSS Tracker](https://github.com/Netflix/osstracker).
