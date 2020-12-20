@@ -11,4 +11,4 @@ script:
   - pylama pelletics
   - pytest --cov-report=xml --cov=tests/
 after_success:
-  - codecov
+  - bash <(curl -s https://codecov.io/bash)
