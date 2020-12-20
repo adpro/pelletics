@@ -32,4 +32,4 @@ pypi: ## upload package to production pypi
 
 .PHONY: test
 test: ## run pytest's tests
-	@pytest
+	@pytest --cov=tests/
