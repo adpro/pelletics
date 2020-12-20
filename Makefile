@@ -18,4 +18,5 @@ clean: ## clean distribution packages content
 dist: ## create distribution package
 	@echo "🎁 Creating distribution package"
 	@python setup.py sdist bdist_wheel
+	@twine check dist/*
 
