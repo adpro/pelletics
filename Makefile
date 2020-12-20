@@ -20,3 +20,12 @@ dist: ## create distribution package
 	@python setup.py sdist bdist_wheel
 	@twine check dist/*
 
+.PHONY: pypitest
+pypitest: ## upload package to test pypi
+	@echo "🚀 Uploading package to TEST PyPi"
+	@twine upload -r pypitest --config-file ~/.pypirc dist/*
+
+.PHONY: pypi
+pypi: ## upload package to production pypi
+	@echo "🚀 Uploading package to PyPi"
+	@twine upload -r pypi --config-file ~/.pypirc dist/*
