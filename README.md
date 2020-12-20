@@ -10,6 +10,7 @@ A tool to compare the consumption of pellets in recent years and other statistic
 
 :warning: **THIS IS UNFINISHED DRAFT OF INITIAL VERSION OF PROJECT README** :warning:
 
+
 ## Goal
 
 The application will calculate statistics based on historical data on the number of burned pellets:
@@ -20,6 +21,7 @@ The application will calculate statistics based on historical data on the number
 - current number of kg of pellets in stock
 - prediction of the date of emptying the pellets based on their use in the current year and the trend of previous years
 - and more...
+
 
 ## Motivation
 
@@ -32,17 +34,21 @@ My motivation for this project is:
 - improve knowledge of the use of status badges
 - and more
 
+
 ## Getting Started
 
 It will be written.
+
 
 ## Roadmap
 
 Functionality definition for version 0.1.0 is now in progress. Subsequent versions will be added gradually.
 
+
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/adpro/pelletics/blob/master/CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests.
+
 
 ## Versioning
 
@@ -50,12 +56,15 @@ pelletics uses [SemVer](http://semver.org/) for versioning. For the versions ava
 
 
 ## Maintainers and contributors
+
 * **Ales Daniel** - *Initial work* - [adpro](https://github.com/adpro)
+
 
 ## License
 
-pelletics is licensed under the MIT License - see the [LICENSE](LICENSE) file
+pelletics is licensed under the MIT License - see the [LICENSE](https://github.com/adpro/pelletics/blob/master/LICENSE) file
 for details.
+
 
 ## Project status
 
