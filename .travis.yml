@@ -9,4 +9,6 @@ install:
 # command to run tests
 script:
   - pylama pelletics
-  - pytest
+  - pytest --cov-report=xml --cov=tests/
+after_success:
+  - codecov

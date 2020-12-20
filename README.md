@@ -6,6 +6,7 @@
 ![GitHub milestones](https://img.shields.io/github/milestones/closed/adpro/pelletics)
 ![GitHub last commit](https://img.shields.io/github/last-commit/adpro/pelletics)
 [![Build Status](https://travis-ci.com/adpro/pelletics.svg?branch=master)](https://travis-ci.com/adpro/pelletics)
+[![codecov](https://codecov.io/gh/adpro/pelletics/branch/master/graph/badge.svg?token=SFJ3HOQPM4)](https://codecov.io/gh/adpro/pelletics)
 
 A tool to compare the consumption of pellets in recent years and other statistics.
 
