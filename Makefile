@@ -29,3 +29,7 @@ pypitest: ## upload package to test pypi
 pypi: ## upload package to production pypi
 	@echo "🚀 Uploading package to PyPi"
 	@twine upload -r pypi --config-file ~/.pypirc dist/*
+
+.PHONY: test
+test: ## run pytest's tests
+	@pytest
