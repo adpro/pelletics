@@ -6,7 +6,7 @@
 ![GitHub milestones](https://img.shields.io/github/milestones/closed/adpro/pelletics)
 ![GitHub last commit](https://img.shields.io/github/last-commit/adpro/pelletics)
 
-A tool to compare the use of pellets in recent years and other statistics.
+A tool to compare the consumption of pellets in recent years and other statistics.
 
 :warning: **THIS IS UNFINISHED DRAFT OF INITIAL VERSION OF PROJECT README** :warning:
 
