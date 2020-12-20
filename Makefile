@@ -8,12 +8,14 @@ help: ## Shows this help message
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-15s\033[0m %s\n", $$1, $$2}'
 
 .PHONY: clean
-clean:
+clean: ## clean distribution packages content
+	@echo "🧹 Cleaning distribution content.."
 	@rm -rf build/
 	@rm -rf dist/
-	@rm -rf *.egg.info/
+	@rm -rf *.egg-info/
 
-.PHONY: dist ## create distribution package
-dist: 
+.PHONY: dist 
+dist: ## create distribution package
+	@echo "🎁 Creating distribution package"
 	@python setup.py sdist bdist_wheel
 
