@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="pelletics",
-    version="0.0.1.dev3",
+    version="0.1.0.dev1",
     author="Ales Daniel",
     author_email="ales.daniel@gmail.com",
     description="A pellet consumption statistics tool",
