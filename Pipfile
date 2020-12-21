@@ -10,6 +10,7 @@ twine = "*"
 pylama = "*"
 pytest = "*"
 pytest-cov = "*"
+codecov = "*"
 
 [requires]
 python_version = "3.9"
