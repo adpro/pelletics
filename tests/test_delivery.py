@@ -22,6 +22,7 @@ def test_init(sample_delivery):
     assert sample_delivery.weight == 7350
     assert sample_delivery.price == 42500
     assert sample_delivery.date == date(2020, 12, 20)
+    assert sample_delivery.rest_amount == 7350
 
 
 def test_init_wrong_data_type():

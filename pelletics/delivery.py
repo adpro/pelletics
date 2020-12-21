@@ -18,3 +18,4 @@ class Delivery:
             self.date = curr_date
         else:
             raise(AttributeError("Date must be datetime.date instance"))
+        self.rest_amount = self.weight  # rest of delivery after consumptions
