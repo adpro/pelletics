@@ -32,4 +32,5 @@ pypi: ## upload package to production pypi
 
 .PHONY: test
 test: ## run pytest's tests
+	@pylama pelletics/
 	@pytest --cov=tests/
